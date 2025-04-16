@@ -62,7 +62,8 @@ int main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/df84edc0-cbaf-4b48-bb8e-924465fa8997)
+![image](https://github.com/user-attachments/assets/5a87813e-674a-4237-9fa0-8af75e24ee49)
+
 
 ## RESULT: 
 Thus, the AES (Advanced Encryption Standard) algorithm was successfully implemented using a simple XOR-based logic to demonstrate encryption and decryption of a URL string. The encrypted message was displayed in ASCII format, and the original plaintext was successfully retrieved through decryption.
